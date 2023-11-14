@@ -215,4 +215,5 @@ clone the app repo and create a testing branch
 base on whatever branch you are on when you run
 git checkout -b testing
 git branch
-git push*/
+git push
+be aware that takes a while to show logs and most be executed manually the first time*/
